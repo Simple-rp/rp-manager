@@ -1,0 +1,1 @@
+import{j as s}from"./index-C2z7T8RV.js";import{A as e,a as r,b as a,d as o}from"./DocsExample-BCeG28d7.js";const x=()=>s.jsxs("div",{children:[s.jsx(e,{}),s.jsxs("div",{className:"wrapper d-flex flex-column min-vh-100",children:[s.jsx(r,{}),s.jsx("div",{className:"body flex-grow-1",children:s.jsx(a,{})}),s.jsx(o,{})]})]});export{x as default};
