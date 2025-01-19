@@ -5,7 +5,7 @@ import autoprefixer from 'autoprefixer'
 
 export default defineConfig(() => {
   return {
-    base: "/rp-manager/",
+    base: "rp-manager/",
     build: {
       outDir: 'build',
     },
